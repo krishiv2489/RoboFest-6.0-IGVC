@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8645f034-9fe1-4910-a0e8-98a09b588ac9")
+	(paper "A4")
+	(title_block
+		(title "Robofest Gujarat 6.0 — IGVC Electronics System")
+		(date "2026-08-16")
+		(rev "1.0")
+		(company "Team Nirma")
+		(comment 1 "Nirma University")
+	)
+	(lib_symbols)
+)

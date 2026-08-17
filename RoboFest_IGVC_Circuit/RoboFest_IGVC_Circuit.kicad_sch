@@ -1,0 +1,297 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bd507979-6024-412b-bdc6-54c3e4be9cc9")
+	(paper "A3")
+	(title_block
+		(title "Robofest Gujarat 6.0 — IGVC Electronics System")
+		(date "2026-08-16")
+		(rev "1.0")
+		(company "Team Nirma")
+		(comment 1 "Nirma University")
+	)
+	(lib_symbols)
+	(sheet
+		(at 190.5 124.46)
+		(size 173.99 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "05a854fa-321e-48c8-b532-78f2b336a09a")
+		(property "Sheetname" "SBC Interconnect"
+			(at 190.5 123.7484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sbc_interconnect.kicad_sch"
+			(at 190.5 213.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 219.71)
+		(size 130.81 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2040a89e-840f-4b00-8c6b-f9793933e6b0")
+		(property "Sheetname" "Power Distribution"
+			(at 165.1 218.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_distribution.kicad_sch"
+			(at 165.1 279.9846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 17.78)
+		(size 162.56 96.52)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5db4a3cd-640f-41a8-9ae0-fd1393623261")
+		(property "Sheetname" "Suspension Actuation"
+			(at 17.78 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "suspension_actuation.kicad_sch"
+			(at 17.78 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 124.46)
+		(size 163.83 88.9)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "687dbabc-2351-46b2-b98f-052cb8ca0ed0")
+		(property "Sheetname" "Motor Drive"
+			(at 17.78 123.7484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_drive.kicad_sch"
+			(at 17.78 213.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 17.78)
+		(size 172.72 97.79)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "aba9a60c-5dfc-4fce-95d5-57538f05923e")
+		(property "Sheetname" "Sensors"
+			(at 190.5 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 190.5 116.1546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 219.71)
+		(size 138.43 60.96)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f0428bdc-3c83-4dd4-b381-7b729ef35c11")
+		(property "Sheetname" "MCU ESP32"
+			(at 17.78 218.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_esp32.kicad_sch"
+			(at 17.78 281.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RoboFest_IGVC_Circuit"
+				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
