@@ -429,7 +429,7 @@
         "uuid": "bd507979-6024-412b-bdc6-54c3e4be9cc9"
       }
     ],
-    "used_designators": "J1-7,F1,BT1",
+    "used_designators": "#PWR1-6,J1-7,U1-3,F1,BT1",
     "variants": []
   },
   "sheets": [
@@ -438,8 +438,16 @@
       "Root"
     ],
     [
-      "5db4a3cd-640f-41a8-9ae0-fd1393623261",
-      "Suspension Actuation"
+      "2040a89e-840f-4b00-8c6b-f9793933e6b0",
+      "Power Distribution"
+    ],
+    [
+      "f0428bdc-3c83-4dd4-b381-7b729ef35c11",
+      "MCU STM32"
+    ],
+    [
+      "05a854fa-321e-48c8-b532-78f2b336a09a",
+      "SBC Interconnect"
     ],
     [
       "aba9a60c-5dfc-4fce-95d5-57538f05923e",
@@ -450,16 +458,8 @@
       "Motor Drive"
     ],
     [
-      "05a854fa-321e-48c8-b532-78f2b336a09a",
-      "SBC Interconnect"
-    ],
-    [
-      "f0428bdc-3c83-4dd4-b381-7b729ef35c11",
-      "MCU ESP32"
-    ],
-    [
-      "2040a89e-840f-4b00-8c6b-f9793933e6b0",
-      "Power Distribution"
+      "5db4a3cd-640f-41a8-9ae0-fd1393623261",
+      "Suspension Actuation"
     ]
   ],
   "text_variables": {},

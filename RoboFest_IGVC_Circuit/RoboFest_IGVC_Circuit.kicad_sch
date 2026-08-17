@@ -53,7 +53,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "5")
+					(page "3")
 				)
 			)
 		)
@@ -99,7 +99,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "7")
+					(page "1")
 				)
 			)
 		)
@@ -145,7 +145,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "2")
+					(page "6")
 				)
 			)
 		)
@@ -191,7 +191,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "4")
+					(page "5")
 				)
 			)
 		)
@@ -237,7 +237,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
@@ -258,7 +258,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "f0428bdc-3c83-4dd4-b381-7b729ef35c11")
-		(property "Sheetname" "MCU ESP32"
+		(property "Sheetname" "MCU STM32"
 			(at 17.78 218.9984 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -283,7 +283,7 @@
 		(instances
 			(project "RoboFest_IGVC_Circuit"
 				(path "/bd507979-6024-412b-bdc6-54c3e4be9cc9"
-					(page "6")
+					(page "2")
 				)
 			)
 		)
