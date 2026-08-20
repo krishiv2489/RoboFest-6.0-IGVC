@@ -429,17 +429,13 @@
         "uuid": "bd507979-6024-412b-bdc6-54c3e4be9cc9"
       }
     ],
-    "used_designators": "C1-2,R1-3,M1-4,OC1,#FLG1-5,#PWR1-19,J1-15,U1-5,F1,H1,BT1",
+    "used_designators": "C1-2,R1-4,M1-8,OC1,#FLG1-14,#PWR1-29,J1-15,U1-9,F1,H1,BT1",
     "variants": []
   },
   "sheets": [
     [
       "bd507979-6024-412b-bdc6-54c3e4be9cc9",
       "Root"
-    ],
-    [
-      "2040a89e-840f-4b00-8c6b-f9793933e6b0",
-      "Power Distribution"
     ],
     [
       "f0428bdc-3c83-4dd4-b381-7b729ef35c11",
@@ -460,6 +456,10 @@
     [
       "5db4a3cd-640f-41a8-9ae0-fd1393623261",
       "Suspension Actuation"
+    ],
+    [
+      "2040a89e-840f-4b00-8c6b-f9793933e6b0",
+      "Power Distribution"
     ]
   ],
   "text_variables": {},
